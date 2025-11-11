@@ -1,0 +1,16 @@
+export enum Trait {
+    Pikmin,
+    Passive,
+    Wall,
+    Swarm,
+    FirstStrike,
+    Burrowing,
+    Digging,
+    UpHigh,
+    Explorer,
+    MultiAttack,
+    Indirect,
+    DolphinPart,
+    DebtTreasure,
+    Fruit,
+}
