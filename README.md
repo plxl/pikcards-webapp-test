@@ -2,6 +2,13 @@
 
 This repository will be used to setup a test application in TypeScript using Bun for Pikcards to prepare for migration to a web application.
 
+## Setup Guide
+Install the latest version of [Bun](https://bun.com) and clone this repository to your system, then simply:
+```bash
+bun install
+bun run dev
+```
+
 ## Plan
 Backend with CLI with the following features implemented:
   - 10 cards
